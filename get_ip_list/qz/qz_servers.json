@@ -1,0 +1,1885 @@
+[
+    {
+        "server": "093.9966.org",
+        "description": "山东莱芜电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "090.9966.org",
+        "description": "山东莱芜联通2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "67.188.link",
+        "description": "山东莱芜电信3",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "084.9966.org",
+        "description": "山东泰安电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "074.9966.org",
+        "description": "山东淄博电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "68.188.link",
+        "description": "山东淄博电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "083.9966.org",
+        "description": "山东威海电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "082.9966.org",
+        "description": "山东威海电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "02.188.link",
+        "description": "山东威海电信3",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "087.9966.org",
+        "description": "山东日照电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "096.9966.org",
+        "description": "山东菏泽联通1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "098.9966.org",
+        "description": "山东滨州电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "097.9966.org",
+        "description": "山东滨州电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "081.9966.org",
+        "description": "山东潍坊联通1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "077.9966.org",
+        "description": "山东枣庄电信1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 0
+    },
+    {
+        "server": "52.188.link",
+        "description": "山东枣庄联通",
+        "mppe": 1,
+        "rate": 100,
+        "enabled": 0
+    },
+    {
+        "server": "080.9966.org",
+        "description": "山东烟台电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "69.188.link",
+        "description": "山东烟台电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "095.9966.org",
+        "description": "山东济南电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "184.9966.org",
+        "description": "山东省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "251.9966.org",
+        "description": "湖北黄冈电信1",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 0
+    },
+    {
+        "server": "244.9966.org",
+        "description": "湖北随州电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "51.188.link",
+        "description": "湖北随州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "311.9966.org",
+        "description": "湖北十堰电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "022.9966.org",
+        "description": "湖北咸宁电信",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "247.9966.org",
+        "description": "湖北荆州联通1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "236.9966.org",
+        "description": "湖北长沙电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "172.9966.org",
+        "description": "湖北省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "014.9966.org",
+        "description": "浙江衢州电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "013.9966.org",
+        "description": "浙江衢州电信2",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "019.9966.org",
+        "description": "浙江温州电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "60.188.link",
+        "description": "浙江温州电信",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "60.188.link",
+        "description": "浙江温州电信",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "037.9966.org",
+        "description": "浙江杭州电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "039.9966.org",
+        "description": "浙江杭州电信2",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "20.188.link",
+        "description": "浙江杭州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "031.9966.org",
+        "description": "浙江宁波电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "030.9966.org",
+        "description": "浙江宁波电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "027.9966.org",
+        "description": "浙江绍兴电信1",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "029.9966.org",
+        "description": "浙江绍兴电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "034.9966.org",
+        "description": "浙江金华电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "032.9966.org",
+        "description": "浙江丽水电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "62.188.link",
+        "description": "浙江丽水电信",
+        "mppe": 1,
+        "rate": 10,
+        "enabled": 0
+    },
+    {
+        "server": "035.9966.org",
+        "description": "浙江嘉兴电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "015.9966.org",
+        "description": "浙江舟山电信",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "06.188.link",
+        "description": "浙江舟山电信",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "09.188.link",
+        "description": "浙江台州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "026.9966.org",
+        "description": "浙江台州电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "053.9966.org",
+        "description": "浙江台州电信2",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "211.9966.org",
+        "description": "浙江台州电信3",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "036.9966.org",
+        "description": "浙江湖州电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "182.9966.org",
+        "description": "浙江省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "190.9966.org",
+        "description": "江苏扬州电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "19.188.link",
+        "description": "江苏扬州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "187.9966.org",
+        "description": "江苏扬州电信4",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "207.9966.org",
+        "description": "江苏苏州电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "209.9966.org",
+        "description": "江苏连云港电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "210.9966.org",
+        "description": "江苏连云港电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "203.9966.org",
+        "description": "江苏无锡电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "204.9966.org",
+        "description": "江苏无锡电信2",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "201.9966.org",
+        "description": "江苏徐州电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "200.9966.org",
+        "description": "江苏徐州电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "198.9966.org",
+        "description": "江苏盐城电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "50.188.link",
+        "description": "江苏盐城电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "205.9966.org",
+        "description": "江苏泰州电信1",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "214.9966.org",
+        "description": "江苏常州电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "215.9966.org",
+        "description": "江苏常州电信2",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "34.188.link",
+        "description": "江苏常州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "213.9966.org",
+        "description": "江苏常州电信3",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "185.9966.org",
+        "description": "江苏镇江电信",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "54.188.link",
+        "description": "江苏镇江电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "160.9966.org",
+        "description": "江苏南通电信",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 0
+    },
+    {
+        "server": "208.9966.org",
+        "description": "江苏南通电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 0
+    },
+    {
+        "server": "206.9966.org",
+        "description": "江苏宿迁电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "294.9966.org",
+        "description": "江苏淮安电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "067.9966.org",
+        "description": "江苏南京电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "089.9966.org",
+        "description": "江苏省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "179.9966.org",
+        "description": "江苏省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "047.9966.org",
+        "description": "四川成都电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "058.9966.org",
+        "description": "四川成都联通",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "49.188.link",
+        "description": "四川成都联通",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "312.9966.org",
+        "description": "四川绵阳电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "04.188.link",
+        "description": "四川绵阳电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "248.9966.org",
+        "description": "四川广元电信1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "049.9966.org",
+        "description": "四川自贡电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "050.9966.org",
+        "description": "四川自贡电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "061.9966.org",
+        "description": "四川德阳电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "060.9966.org",
+        "description": "四川德阳电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "272.9966.org",
+        "description": "四川资阳电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "337.9966.org",
+        "description": "四川资阳电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "40.188.link",
+        "description": "四川资阳电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "299.9966.org",
+        "description": "四川遂宁电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "301.9966.org",
+        "description": "四川遂宁电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "048.9966.org",
+        "description": "四川泸州联通1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "059.9966.org",
+        "description": "四川眉山电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "063.9966.org",
+        "description": "四川达州联通",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "170.9966.org",
+        "description": "四川省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "232.9966.org",
+        "description": "湖南郴州电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "161.9966.org",
+        "description": "湖南怀化电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 0
+    },
+    {
+        "server": "220.9966.org",
+        "description": "湖南株洲电信2",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "229.9966.org",
+        "description": "湖南邵阳电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "241.9966.org",
+        "description": "湖南长沙电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "236.9966.org",
+        "description": "湖南长沙电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "239.9966.org",
+        "description": "湖南长沙电信2",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "05.188.link",
+        "description": "湖南长沙电信",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "37.188.link",
+        "description": "湖南吉首电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "226.9966.org",
+        "description": "湖南永州电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "219.9966.org",
+        "description": "湖南张家界电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "22.188.link",
+        "description": "湖南张家界电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "17.188.link",
+        "description": "湖南益阳电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "228.9966.org",
+        "description": "湖南益阳电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "227.9966.org",
+        "description": "湖南益阳电信2",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "072.9966.org",
+        "description": "湖南娄底电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "175.9966.org",
+        "description": "湖南省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "104.9966.org",
+        "description": "河南平顶山联通",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 0
+    },
+    {
+        "server": "270.9966.org",
+        "description": "河南鹤壁联通1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 0
+    },
+    {
+        "server": "44.188.link",
+        "description": "河南鹤壁电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "47.188.link",
+        "description": "河南郑州联通",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "262.9966.org",
+        "description": "河南郑州联通1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "265.9966.org",
+        "description": "河南三门峡电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "261.9966.org",
+        "description": "河南濮阳联通1",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "57.188.link",
+        "description": "河南洛阳联通1",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 0
+    },
+    {
+        "server": "269.9966.org",
+        "description": "河南洛阳联通2",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 0
+    },
+    {
+        "server": "169.9966.org",
+        "description": "河南许昌联通",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 0
+    },
+    {
+        "server": "151.9966.org",
+        "description": "河南省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "094.9966.org",
+        "description": "安徽合肥电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "092.9966.org",
+        "description": "安徽合肥电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "339.9966.org",
+        "description": "安徽铜陵电信",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "075.9966.org",
+        "description": "安徽黄山电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "040.9966.org",
+        "description": "安徽黄山电信2",
+        "mppe": 0,
+        "rate": 40,
+        "enabled": 1
+    },
+    {
+        "server": "141.9966.org",
+        "description": "安徽池州联通1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "142.9966.org",
+        "description": "安徽池州电信2",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "41.188.link",
+        "description": "安徽淮南电信",
+        "mppe": 1,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "078.9966.org",
+        "description": "安徽淮南电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "146.9966.org",
+        "description": "安徽蚌埠电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "079.9966.org",
+        "description": "安徽淮北电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "091.9966.org",
+        "description": "安徽淮北电信2",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "286.9966.org",
+        "description": "安徽马鞍山电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "073.9966.org",
+        "description": "安徽宣城电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "155.9966.org",
+        "description": "安徽省混合",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "55.188.link",
+        "description": "安徽蚌埠电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "068.9966.org",
+        "description": "陕西延安电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "056.9966.org",
+        "description": "陕西延安电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "03.188.link",
+        "description": "陕西延安电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "070.9966.org",
+        "description": "陕西商洛电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "29.188.link",
+        "description": "陕西商洛电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "281.9966.org",
+        "description": "陕西安康电信-1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "288.9966.org",
+        "description": "陕西安康电信-2",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "164.9966.org",
+        "description": "江西新余电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 0
+    },
+    {
+        "server": "162.9966.org",
+        "description": "江西景德镇电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "174.9966.org",
+        "description": "江西吉安电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "13.188.link",
+        "description": "江西吉安电信",
+        "mppe": 1,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "177.9966.org",
+        "description": "江西赣州电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "166.9966.org",
+        "description": "江西南昌电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "181.9966.org",
+        "description": "江西抚州电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "10.188.link",
+        "description": "江西抚州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "300.9966.org",
+        "description": "江西鹰潭电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "257.9966.org",
+        "description": "黑龙江牡丹江联通1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "260.9966.org",
+        "description": "黑龙江哈尔滨联通1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "45.188.link",
+        "description": "黑龙江哈尔滨联通",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "256.9966.org",
+        "description": "黑龙江伊春联通1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "143.9966.org",
+        "description": "辽宁辽阳联通",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "346.9966.org",
+        "description": "辽宁沈阳联通",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "145.9966.org",
+        "description": "辽宁阜新联通1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "148.9966.org",
+        "description": "辽宁抚顺联通3",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "08.188.link",
+        "description": "辽宁鞍山电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "157.9966.org",
+        "description": "辽宁鞍山联通1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "18.188.link",
+        "description": "辽宁本溪电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "154.9966.org",
+        "description": "辽宁本溪电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "171.9966.org",
+        "description": "辽宁盘锦电信",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "153.9966.org",
+        "description": "辽宁丹东电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "24.188.link",
+        "description": "辽宁丹东电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "216.9966.org",
+        "description": "吉林松原联通1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "46.188.link",
+        "description": "吉林松原电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "051.9966.org",
+        "description": "福建泉州联通",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "018.9966.org",
+        "description": "福建厦门电信1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "017.9966.org",
+        "description": "福建漳州电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "43.188.link",
+        "description": "福建漳州电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "069.9966.org",
+        "description": "福建福州电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "249.9966.org",
+        "description": "广东广州电信-1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "223.9966.org",
+        "description": "广东广州电信-2",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "348.9966.org",
+        "description": "广东中山电信",
+        "mppe": 0,
+        "rate": 30,
+        "enabled": 1
+    },
+    {
+        "server": "11.188.link",
+        "description": "广东湛江电信",
+        "mppe": 1,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "289.9966.org",
+        "description": "广东湛江联通",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "285.9966.org",
+        "description": "广东珠海电信2",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "291.9966.org",
+        "description": "广东江门电信1",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "292.9966.org",
+        "description": "广东江门电信2",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "290.9966.org",
+        "description": "广东深圳电信1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "250.9966.org",
+        "description": "广东深圳电信1",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "283.9966.org",
+        "description": "广东揭阳电信",
+        "mppe": 0,
+        "rate": 25,
+        "enabled": 1
+    },
+    {
+        "server": "304.9966.org",
+        "description": "广东肇庆电信",
+        "mppe": 0,
+        "rate": 35,
+        "enabled": 1
+    },
+    {
+        "server": "282.9966.org",
+        "description": "广西贵港电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "230.9966.org",
+        "description": "广西贵港电信3",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "338.9966.org",
+        "description": "广西柳州电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "42.188.link",
+        "description": "广西柳州电信",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "099.9966.org",
+        "description": "青海西宁电信2",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "23.188.link",
+        "description": "青海西宁电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "115.9966.org",
+        "description": "青海海东电信1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "107.9966.org",
+        "description": "青海西蒙市电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "30.188.link",
+        "description": "青海西宁电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "25.188.link",
+        "description": "青海黄南电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "132.9966.org",
+        "description": "内蒙古包头电信1",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "295.9966.org",
+        "description": "内蒙古呼和浩特联通",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "130.9966.org",
+        "description": "内蒙古呼和浩特电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "264.9966.org",
+        "description": "内蒙古鄂尔多斯联通1",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "043.9966.org",
+        "description": "内蒙巴彦淖尔电信1",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "071.9966.org",
+        "description": "山西忻州联通1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "334.9966.org",
+        "description": "山西朔州联通",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "274.9966.org",
+        "description": "河北衡水电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "144.9966.org",
+        "description": "河北邢台联通",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "12.188.link",
+        "description": "河北保定联通",
+        "mppe": 1,
+        "rate": 10,
+        "enabled": 0
+    },
+    {
+        "server": "16.188.link",
+        "description": "河北张家口联通",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "224.9966.org",
+        "description": "北京北京联通6",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "044.9966.org",
+        "description": "北京联通3",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "124.9966.org",
+        "description": "宁夏固原电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "335.9966.org",
+        "description": "天津联通",
+        "mppe": 0,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "066.9966.org",
+        "description": "上海电信1",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 0
+    },
+    {
+        "server": "065.9966.org",
+        "description": "上海电信2",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "064.9966.org",
+        "description": "上海电信3",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "011.9966.org",
+        "description": "重庆电信3",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "042.9966.org",
+        "description": "云南昆明电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "21.188.link",
+        "description": "云南昆明电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "336.9966.org",
+        "description": "云南保山电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 0
+    },
+    {
+        "server": "56.188.link",
+        "description": "云南保山电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "254.9966.org",
+        "description": "云南丽江电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "306.9966.org",
+        "description": "云南丽江电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "140.9966.org",
+        "description": "云南曲靖电信1",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "28.188.link",
+        "description": "云南曲靖电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "310.9966.org",
+        "description": "云南曲靖电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "38.188.link",
+        "description": "云南西双版纳电信",
+        "mppe": 1,
+        "rate": 50,
+        "enabled": 1
+    },
+    {
+        "server": "331.9966.org",
+        "description": "云南西双版纳电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "48.188.link",
+        "description": "云南玉溪电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "021.9966.org",
+        "description": "云南玉溪电信",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "296.9966.org",
+        "description": "海南混拨电信",
+        "mppe": 0,
+        "rate": 40,
+        "enabled": 1
+    },
+    {
+        "server": "276.9966.org",
+        "description": "海南海口电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "279.9966.org",
+        "description": "云南迪庆电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "309.9966.org",
+        "description": "云南楚雄电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "66.188.link",
+        "description": "云南楚雄电信2",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "347.9966.org",
+        "description": "云南怒江自治州电信1",
+        "mppe": 0,
+        "rate": 40,
+        "enabled": 1
+    },
+    {
+        "server": "58.188.link",
+        "description": "云南怒江自治州电信2",
+        "mppe": 1,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "314.9966.org",
+        "description": "海南昌黎电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "64.188.link",
+        "description": "云南临沧电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "325.9966.org",
+        "description": "海南保亭电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "322.9966.org",
+        "description": "云南临沧电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "271.9966.org",
+        "description": "云南红河电信",
+        "mppe": 0,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "280.9966.org",
+        "description": "海南安定电信",
+        "mppe": 0,
+        "rate": 25,
+        "enabled": 1
+    },
+    {
+        "server": "26.188.link",
+        "description": "云南红河电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "63.188.link",
+        "description": "云南香格里拉电信",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 0
+    },
+    {
+        "server": "65.188.link",
+        "description": "云南大理电信1",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "323.9966.org",
+        "description": "云南大理电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "293.9966.org",
+        "description": "云南德宏电信",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "70.188.link",
+        "description": "云南普洱电信1",
+        "mppe": 1,
+        "rate": 20,
+        "enabled": 1
+    },
+    {
+        "server": "308.9966.org",
+        "description": "云南普洱电信2",
+        "mppe": 0,
+        "rate": 10,
+        "enabled": 1
+    },
+    {
+        "server": "218.2.22.70",
+        "description": "全国混拨160个地区电信",
+        "mppe": 0,
+        "rate": 100,
+        "enabled": 1
+    },
+    {
+        "server": "168.s77.cn",
+        "description": "全国混拨150个地区电信",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "303.9966.org",
+        "description": "全国混拨150地区电信",
+        "mppe": 0,
+        "rate": 6,
+        "enabled": 1
+    },
+    {
+        "server": "212.9966.org",
+        "description": "全国混拨120地区电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "149.9966.org",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "252.9966.org",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "238.9966.org",
+        "description": "全国混拨120地区电信",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "012.9966.org",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 0,
+        "enabled": 0
+    },
+    {
+        "server": "222.184.112.213",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "225.9966.org",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "222.184.112.38",
+        "description": "全国混拨120地区电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "273.9966.org",
+        "description": "全国混拨130个地区电信2",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 0
+    },
+    {
+        "server": "191.9966.org",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "113.133.46.138",
+        "description": "全国混拨-120地区-电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    },
+    {
+        "server": "197.9966.org",
+        "description": "全国混拨110地区电信",
+        "mppe": 0,
+        "rate": 8,
+        "enabled": 1
+    },
+    {
+        "server": "61.147.108.51",
+        "description": "全国混拨120地区电信",
+        "mppe": 0,
+        "rate": 4,
+        "enabled": 1
+    }
+]
